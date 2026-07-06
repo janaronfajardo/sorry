@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "frameworks": [
+    {
+      "name": "nextjs",
+      "version": "14.2.5"
+    }
+  ]
+}
